@@ -24,28 +24,56 @@
 
 </div>
 
-<!-- About Section -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+---
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```typescript
-const hritthik: Developer = {
-  location: "🏠 Remote",
-  role: "Full Stack Developer",
-  focus: ["Trading Bots", "Crypto", "Mobile Apps"],
-  currentlyLearning: ["Web3", "Advanced Go", "Flutter"],
-  askMeAbout: ["JavaScript", "Go", "Dart", "Blockchain"],
-  funFact: "I automate everything! ☕ → 💻"
-};
+<table>
+<tr>
+<td width="55%">
+
+### Hey there! I'm Hritthik 👋
+
+I'm a **Full Stack Developer** passionate about building innovative solutions in the **crypto** and **fintech** space. I love automating things and turning complex problems into elegant code.
+
+<br/>
+
+🎯 **What I Do:**
+
+> � Build n**automated trading bots** for crypto markets  
+> 🔹 Develop **mobile apps** with Flutter  
+> �  Create **web applications** with modern tech  
+> 🔹 Explore **Web3** & **DeFi** technologies
+
+<br/>
+
+📍 **Currently:**
+
+```yaml
+🏠 Working remotely
+🔭 Building trading solutions
+🌱 Learning Web3 & Advanced Go
+💬 Ask me about Crypto, JS, Go, Dart
+🤝 Open for collaborations
 ```
 
-- 🔭 Building **automated trading solutions**
-- 🌱 Exploring **Web3 & DeFi**
-- 💼 Open for **collaborations**
-- ⚡ Love turning ideas into code
+</td>
+<td width="45%">
 
-<br clear="both"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+<div align="center">
+
+**⚡ Fun Fact**
+
+*I automate everything I can!*  
+*Coffee ☕ → Code 💻*
+
+</div>
+
+</td>
+</tr>
+</table>
 
 
 ---
