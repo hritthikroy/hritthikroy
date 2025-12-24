@@ -8,6 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hritthikroy&color=22d1ee&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/hritthikroy?style=for-the-badge&color=22d1ee)](https://github.com/hritthikroy?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/hritthikroy?style=for-the-badge&color=22d1ee)](https://github.com/hritthikroy?tab=repositories)
 
 </div>
 
@@ -25,13 +26,13 @@ const hritthik = {
 };
 ```
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🔭 Currently working on **Trading Bots & Crypto Projects**
 
 🌱 Learning **Advanced Go, Flutter & Web3**
 
-� Ask me iabout **JavaScript, Go, Dart, Crypto**
+💬 Ask me about **JavaScript, Go, Dart, Crypto**
 
 🎯 Goal: **Build scalable fintech solutions**
 
@@ -74,26 +75,18 @@ const hritthik = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/hritthikroy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hritthikroy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hritthikroy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/hritthikroy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritthikroy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=hritthikroy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/hritthikroy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritthikroy&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritthikroy&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 
@@ -103,11 +96,12 @@ const hritthik = {
 
 <div align="center">
 
-[![Crypto News Portal](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=crypto-news-portal&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/crypto-news-portal)
-[![TRADEBOT](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=TRADEBOT&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/TRADEBOT)
-
-[![bdpayx](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=bdpayx&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/bdpayx)
-[![Eloquent](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=Eloquent&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/Eloquent)
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|:-----------|:---------------|:--------|
+| [**Crypto News Portal**](https://github.com/hritthikroy/crypto-news-portal) | Real-time cryptocurrency news aggregator with smart categorization | `JavaScript` `Node.js` |
+| [**TRADEBOT**](https://github.com/hritthikroy/TRADEBOT) | Automated trading bot for crypto markets | `Go` `Trading API` |
+| [**BDPayX**](https://github.com/hritthikroy/bdpayx) | Mobile payment solution app | `Dart` `Flutter` |
+| [**Eloquent**](https://github.com/hritthikroy/Eloquent) | Beautiful web templates & designs | `HTML` `CSS` |
 
 </div>
 
@@ -116,9 +110,7 @@ const hritthik = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/hritthikroy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hritthikroy&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hritthikroy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
 </div>
 
 ---
@@ -126,11 +118,7 @@ const hritthik = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github.com/hritthikroy/hritthikroy/blob/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -142,7 +130,6 @@ const hritthik = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hritthikroy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritthikroy)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hritthikroy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hritthikroy@gmail.com)
 
 </div>
 
