@@ -75,18 +75,26 @@ const hritthik = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritthikroy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <picture>
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hritthikroy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hritthikroy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats"/>
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hritthikroy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hritthikroy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritthikroy&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritthikroy&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
 
