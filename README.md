@@ -40,9 +40,9 @@ I'm a **Full Stack Developer** passionate about building innovative solutions in
 
 🎯 **What I Do:**
 
-> � Build n**automated trading bots** for crypto markets  
+> 🔹 Build **automated trading bots** for crypto markets  
 > 🔹 Develop **mobile apps** with Flutter  
-> �  Create **web applications** with modern tech  
+> 🔹 Create **web applications** with modern tech  
 > 🔹 Explore **Web3** & **DeFi** technologies
 
 <br/>
