@@ -1,42 +1,44 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hritthik%20Roy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d5af1,100:22d1ee&height=200&section=header&text=Hritthik%20Roy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Crypto+%26+Blockchain+Enthusiast+%F0%9F%94%97;Building+Trading+Bots+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D1EE&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Crypto+%26+Blockchain+Enthusiast;Trading+Bot+Developer;Mobile+App+Developer" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=hritthikroy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/hritthikroy?tab=followers"><img src="https://img.shields.io/github/followers/hritthikroy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"></a>
-<img src="https://img.shields.io/badge/Focus-Crypto%20%26%20Trading-brightgreen?style=for-the-badge" alt="Focus" />
+![Profile Views](https://komarev.com/ghpvc/?username=hritthikroy&color=22d1ee&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/hritthikroy?style=for-the-badge&color=22d1ee)](https://github.com/hritthikroy?tab=followers)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const hritthik = {
-    pronouns: "he" | "him",
     location: "🏠 Working from home",
-    currentFocus: "Building innovative trading & crypto solutions",
+    focus: "Building innovative trading & crypto solutions",
+    languages: ["JavaScript", "Go", "Dart", "HTML/CSS"],
+    interests: ["Blockchain", "Trading Bots", "Mobile Apps", "Web3"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-- 🔭 Currently working on **Trading Bots & Crypto Projects**
-- 🌱 Learning **Advanced Go, Flutter & Web3**
-- 💬 Ask me about **JavaScript, Go, Dart, Crypto**
-- ⚡ Fun fact: **I automate everything I can!**
-- 🎯 Goal: **Build scalable fintech solutions**
+🔭 Currently working on **Trading Bots & Crypto Projects**
+
+🌱 Learning **Advanced Go, Flutter & Web3**
+
+� Ask me iabout **JavaScript, Go, Dart, Crypto**
+
+🎯 Goal: **Build scalable fintech solutions**
+
+⚡ Fun fact: **I automate everything I can!**
 
 <br clear="both"/>
+
 
 ---
 
@@ -44,23 +46,26 @@ const hritthik = {
 
 <div align="center">
 
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,go,dart,html,css,python" alt="Languages" />
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🚀 Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,react,git,github,vscode,docker,firebase" alt="Tools" />
-</p>
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 💡 Interests
-<p>
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/>
-<img src="https://img.shields.io/badge/Cryptocurrency-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto"/>
-<img src="https://img.shields.io/badge/Trading_Bots-00C853?style=for-the-badge&logo=tradingview&logoColor=white" alt="Trading"/>
-<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
-</p>
+### Interests
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Trading](https://img.shields.io/badge/Trading-00C853?style=for-the-badge&logo=tradingview&logoColor=white)
 
 </div>
 
@@ -69,22 +74,28 @@ const hritthik = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=hritthikroy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" width="41%" alt="Top Languages"/>
+
+<a href="https://github.com/hritthikroy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hritthikroy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hritthikroy&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" width="70%" alt="GitHub Streak"/>
+  <a href="https://github.com/hritthikroy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritthikroy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritthikroy&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <a href="https://github.com/hritthikroy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritthikroy&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+  </a>
 </div>
+
 
 ---
 
@@ -92,12 +103,11 @@ const hritthik = {
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**🪙 Crypto News Portal**](https://github.com/hritthikroy/crypto-news-portal) | Real-time cryptocurrency news aggregator | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [**🤖 TRADEBOT**](https://github.com/hritthikroy/TRADEBOT) | Automated trading bot for crypto markets | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
-| [**💳 BDPayX**](https://github.com/hritthikroy/bdpayx) | Mobile payment solution app | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
-| [**✨ Eloquent**](https://github.com/hritthikroy/Eloquent) | Beautiful web templates & designs | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+[![Crypto News Portal](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=crypto-news-portal&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/crypto-news-portal)
+[![TRADEBOT](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=TRADEBOT&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/TRADEBOT)
+
+[![bdpayx](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=bdpayx&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/bdpayx)
+[![Eloquent](https://github-readme-stats.vercel.app/api/pin/?username=hritthikroy&repo=Eloquent&theme=tokyonight&hide_border=true)](https://github.com/hritthikroy/Eloquent)
 
 </div>
 
@@ -106,38 +116,33 @@ const hritthik = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hritthikroy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <a href="https://github.com/hritthikroy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hritthikroy&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+  </a>
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake-dark.svg" />
-</picture>
-
----
-
-## 📫 Let's Connect
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<a href="https://github.com/hritthikroy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/hritthikroy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/hritthikroy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/hritthikroy/hritthikroy/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
 
-### 💭 Dev Quote of the Day
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hritthikroy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritthikroy)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hritthikroy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hritthikroy@gmail.com)
 
 </div>
 
@@ -145,8 +150,18 @@ const hritthik = {
 
 <div align="center">
 
-### ⭐ Show some love by starring repositories!
+### 💡 Random Dev Quote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star my repos if you find them useful!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d5af1,100:22d1ee&height=120&section=footer"/>
 
 </div>
