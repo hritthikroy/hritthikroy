@@ -19,13 +19,13 @@
   <a href="https://github.com/hritthikroy?tab=repositories">
     <img src="https://img.shields.io/github/stars/hritthikroy?label=Total%20Stars&style=flat-square&color=58a6ff" alt="Stars"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Crypto%20%26%20Trading-58a6ff?style=flat-square" alt="Focus"/>
 </p>
 
 </div>
 
 <!-- About Section -->
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x4OWF0NnBtdWRyMnBqNnBxdWRyMnBqNnBxdWRyMnBqNnBxdQ/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
 ## 🧑‍💻 About Me
 
@@ -97,18 +97,11 @@ const hritthik: Developer = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritthikroy&custom_title=Hritthik's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
-
-<br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hritthikroy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritthikroy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</p>
 
 
 ---
@@ -209,16 +202,19 @@ Beautiful, responsive web templates & modern designs
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</div>
-
 ---
 
 <div align="center">
-  
+
+## 💭 Philosophy
+
+```
+"First, solve the problem. Then, write the code."
+                                    — John Johnson
+```
+
+<br/>
+
 ### 💖 Support My Work
   
 <p>If you find my projects useful, consider giving them a ⭐</p>
